@@ -7,6 +7,7 @@ require('dotenv').config({
     path: path.join(__dirname, 'config', 'app.env')
 });
 
+const app = express();
 require('./web/routing/base.router');
 
 app.listen(process.env.PORT, () => {
