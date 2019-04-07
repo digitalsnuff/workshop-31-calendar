@@ -1,0 +1,23 @@
+{
+  "name": "workshop-31-calendar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalsnuff/workshop-31-calendar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitalsnuff/workshop-31-calendar/issues"
+  },
+  "homepage": "https://github.com/digitalsnuff/workshop-31-calendar#readme",
+  "devDependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.10"
+  }
+}
